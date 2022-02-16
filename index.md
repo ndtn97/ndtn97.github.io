@@ -1,8 +1,4 @@
----
-title: ABCDEF Title
----
-
-# AAA
+## AAA
 ## BBB
 - CCC
 - DDD
